@@ -1,9 +1,9 @@
 # [Metric-Imperial Converter](https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/metric-imperial-converter)
 ## API
 ### GET /api/convert?input={value}{unit}
-- kg to lbs
-- mi to km
-- L to gal
+- kg/lbs
+- mi/km
+- L/gal
 
 e.g. /api/convert?input=4.8L
 
